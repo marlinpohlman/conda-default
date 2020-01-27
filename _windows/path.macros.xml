@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="Python" value="C:/ProgramData/Anaconda3" />
+  </component>
+</application>
